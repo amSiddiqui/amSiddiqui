@@ -1,6 +1,9 @@
-## Hi there 👋
+<img src="https://github.com/amSiddiqui/amSiddiqui/blob/main/Github-Banner.png" alt="GitHub Banner">
 
-I’m Aamir. Welcome to my GitHub! I enjoy exploring new technologies, building interesting projects, and learning something new with every challenge. Whether it’s AI, systems programming, or web development, I’m always looking for ways to create and improve.
+<hr>
+## Hey there 👋
+
+Welcome to my GitHub! I enjoy exploring new technologies, building interesting projects, and learning something new with every challenge. Whether it’s AI, systems programming, or web development, I’m always looking for ways to create and improve.
 
 ### 🚀 What I’m Up To
 - 🧩 **Advent of Code 2024:** Solving challenges in **Rust**! [Check out my solutions here.](https://github.com/amSiddiqui/AdventOfCodeRust)
@@ -11,7 +14,6 @@ I’m Aamir. Welcome to my GitHub! I enjoy exploring new technologies, building 
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-siddiqui-a50660172/)
-
 
 ### 🌟 Featured Repositories
 
