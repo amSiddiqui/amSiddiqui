@@ -8,7 +8,7 @@ Welcome to my GitHub! I enjoy exploring new technologies, building interesting p
 ### 🚀 What I’m Up To
 - 🧩 **Advent of Code 2024:** Solving challenges in **Rust**! [Check out my solutions here.](https://github.com/amSiddiqui/AdventOfCodeRust)
 - 🎮 **Learning WGPU:** Exploring GPU programming with Rust. [Follow my progress here.](https://github.com/amSiddiqui/MetallicWGPU)
-- 🌟 Expanding knowledge in **AI/ML**, distributed systems, and agentic workflows in financial technology.
+- 🌟 Expanding knowledge in **AI/ML**, distributed systems, and agentic workflows.
 
 
 ### 🤝 Connect with Me
