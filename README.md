@@ -1,7 +1,6 @@
-<img src="https://github.com/amSiddiqui/amSiddiqui/blob/main/Github-Banner.png" alt="GitHub Banner">
+<img src="https://github.com/amSiddiqui/amSiddiqui/blob/main/Github-Banner.png" alt="GitHub Banner"/>
 
-<hr>
-## Hey there 👋
+### Hey there 👋
 
 Welcome to my GitHub! I enjoy exploring new technologies, building interesting projects, and learning something new with every challenge. Whether it’s AI, systems programming, or web development, I’m always looking for ways to create and improve.
 
